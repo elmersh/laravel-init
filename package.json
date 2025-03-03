@@ -1,0 +1,44 @@
+{
+    "name": "@elmersh/laravel-init",
+    "version": "1.0.0",
+    "description": "CLI para inicializar rápidamente proyectos Laravel descargados de GitHub",
+    "main": "src/index.js",
+    "type": "module",
+    "bin": {
+      "laravel-init": "./bin/laravel-init.js"
+    },
+    "files": [
+      "bin",
+      "src"
+    ],
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/elmersh/laravel-init.git"
+    },
+    "keywords": [
+      "laravel",
+      "cli",
+      "initialization",
+      "setup",
+      "valet",
+      "composer",
+      "npm"
+    ],
+    "author": "elmersh",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/elmersh/laravel-init/issues"
+    },
+    "homepage": "https://github.com/elmersh/laravel-init#readme",
+    "engines": {
+      "node": ">=14.16.0"
+    },
+    "dependencies": {
+      "chalk": "^5.4.1",
+      "inquirer": "^12.4.2",
+      "ora": "^8.2.0"
+    }
+  }

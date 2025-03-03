@@ -1,0 +1,34 @@
+# Archivos de desarrollo que no se publicarán en npm
+.git/
+.github/
+.gitignore
+.npmrc
+.editorconfig
+.eslintrc*
+.prettierrc*
+.DS_Store
+*.tgz
+
+# Archivos de prueba
+tests/
+__tests__/
+*.spec.js
+*.test.js
+
+# Archivos de documentación y ejemplos (excepto README.md)
+docs/
+examples/
+screenshots/
+*.gif
+*.png
+*.jpg
+*.jpeg
+
+# Archivos de configuración
+.vscode/
+.idea/
+*.sublime-*
+
+# Archivos temporales
+tmp/
+temp/
