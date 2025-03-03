@@ -5,40 +5,40 @@
     "main": "src/index.js",
     "type": "module",
     "bin": {
-      "laravel-init": "./bin/laravel-init.js"
+        "laravel-init": "bin/laravel-init.js"
     },
     "files": [
-      "bin",
-      "src"
+        "bin",
+        "src"
     ],
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/elmersh/laravel-init.git"
+        "type": "git",
+        "url": "git+https://github.com/elmersh/laravel-init.git"
     },
     "keywords": [
-      "laravel",
-      "cli",
-      "initialization",
-      "setup",
-      "valet",
-      "composer",
-      "npm"
+        "laravel",
+        "cli",
+        "initialization",
+        "setup",
+        "valet",
+        "composer",
+        "npm"
     ],
     "author": "Elmer S.",
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/elmersh/laravel-init/issues"
+        "url": "https://github.com/elmersh/laravel-init/issues"
     },
     "homepage": "https://github.com/elmersh/laravel-init#readme",
     "engines": {
-      "node": ">=14.16.0"
+        "node": ">=14.16.0"
     },
     "dependencies": {
-      "chalk": "^5.4.1",
-      "inquirer": "^12.4.2",
-      "ora": "^8.2.0"
+        "chalk": "^5.4.1",
+        "inquirer": "^12.4.2",
+        "ora": "^8.2.0"
     }
-  }
+}
