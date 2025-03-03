@@ -1,6 +1,6 @@
 # Laravel Init
 
-[![npm version](https://img.shields.io/npm/v/@elmersh/laravel-init.svg)](https://www.npmjs.com/package/@elmersh/laravel-init)
+[![npm version](https://img.shields.io/npm/v/@devxi/laravel-init.svg)](https://www.npmjs.com/package/@devxi/laravel-init)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 Una herramienta CLI para inicializar rápidamente proyectos Laravel descargados de GitHub.
@@ -19,7 +19,7 @@ Una herramienta CLI para inicializar rápidamente proyectos Laravel descargados 
 ## Instalación
 
 ```bash
-npm install -g @elmersh/laravel-init
+npm install -g @devxi/laravel-init
 ```
 
 ## Uso
